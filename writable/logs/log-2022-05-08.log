@@ -1,0 +1,49 @@
+CRITICAL - 2022-05-08 18:26:23 --> Undefined property: stdClass::$count
+#0 C:\xampp\htdocs\prueba\app\Controllers\Departure.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 22)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Departure->index()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Departure))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-08 18:26:36 --> Undefined property: stdClass::$count
+#0 C:\xampp\htdocs\prueba\app\Controllers\Departure.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 22)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Departure->index()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Departure))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-08 18:56:59 --> Too few arguments to function App\Controllers\Departure::index(), 0 passed in C:\xampp\htdocs\prueba\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Departure->index()
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Departure))
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-08 18:57:00 --> Too few arguments to function App\Controllers\Departure::index(), 0 passed in C:\xampp\htdocs\prueba\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Departure->index()
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Departure))
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-08 18:57:39 --> Too few arguments to function App\Controllers\Departure::index(), 0 passed in C:\xampp\htdocs\prueba\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Departure->index()
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Departure))
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-08 20:38:49 --> Too few arguments to function App\Controllers\Departure::index(), 0 passed in C:\xampp\htdocs\prueba\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Departure->index()
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Departure))
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-05-08 21:37:30 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-10, 10' at line 6
+CRITICAL - 2022-05-08 21:37:30 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\prueba\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\prueba\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\prueba\system\Common.php(1089): CodeIgniter\View\View->render('departures_view', Array, true)
+#3 C:\xampp\htdocs\prueba\app\Controllers\Departure.php(27): view('departures_view', Array)
+#4 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Departure->index('0')
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Departure))
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}

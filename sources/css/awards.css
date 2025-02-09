@@ -1,0 +1,50 @@
+.cover {
+    display: flex;
+}
+
+.cover h1 {
+    font-size: 8em;
+    color: white;
+    text-align: center;
+    margin: auto;
+    text-shadow: 4px 4px 5px black;
+}
+
+.awards {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    flex-wrap: wrap;
+    margin: 0px 8vw;
+}
+
+.award {
+    width: 30vw;
+    margin-bottom: 50px;
+}
+
+.award img {
+    width: 100%;
+}
+
+.award h2 {
+    font-size: 2rem;
+    text-align: center;
+    margin: 10px 0px;
+}
+
+
+@media(max-width: 35em) {
+    .award {
+        width: 100%;
+    }
+
+    .cover h1 {
+        font-size: 4em;
+        color: white;
+        text-align: center;
+        margin: auto;
+        text-shadow: 4px 4px 5px black;
+    }
+}

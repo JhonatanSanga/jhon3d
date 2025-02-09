@@ -1,0 +1,1115 @@
+CRITICAL - 2022-04-30 18:53:04 --> Undefined property: App\Controllers\Photo::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 33)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-30 19:02:08 --> Undefined property: App\Controllers\Photo::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 34)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-30 19:02:09 --> Undefined property: App\Controllers\Photo::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 34)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-30 19:02:10 --> Undefined property: App\Controllers\Photo::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 34)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-30 19:02:10 --> Undefined property: App\Controllers\Photo::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 34)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-30 19:02:10 --> Undefined property: App\Controllers\Photo::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 34)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-30 19:02:11 --> Undefined property: App\Controllers\Photo::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 34)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-30 19:02:11 --> Undefined property: App\Controllers\Photo::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 34)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-30 19:02:11 --> Undefined property: App\Controllers\Photo::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 34)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-30 19:02:11 --> Undefined property: App\Controllers\Photo::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 34)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-30 19:09:10 --> Undefined property: App\Controllers\Photo::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 35)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-30 19:13:47 --> Undefined property: CodeIgniter\Router\Router::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 8)
+#1 C:\xampp\htdocs\prueba\system\Router\Router.php(518): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\prueba\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('photo/insert')
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('photo/insert')
+#4 C:\xampp\htdocs\prueba\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-30 19:14:01 --> Undefined property: CodeIgniter\Router\Router::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 8)
+#1 C:\xampp\htdocs\prueba\system\Router\Router.php(518): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\prueba\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('photo/insert')
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('photo/insert')
+#4 C:\xampp\htdocs\prueba\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-30 19:14:04 --> Undefined property: CodeIgniter\Router\Router::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 8)
+#1 C:\xampp\htdocs\prueba\system\Router\Router.php(518): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\prueba\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('photo/insert')
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('photo/insert')
+#4 C:\xampp\htdocs\prueba\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-30 19:14:16 --> Object of class App\Controllers\Photo could not be converted to string
+#0 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-30 19:14:25 --> Object of class App\Controllers\Photo could not be converted to string
+#0 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-30 19:18:20 --> Undefined property: App\Controllers\Photo::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 35)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-30 19:20:42 --> Undefined property: App\Controllers\Photo::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 33)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-30 19:20:43 --> Undefined property: App\Controllers\Photo::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 33)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-30 19:20:44 --> Undefined property: App\Controllers\Photo::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 33)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-30 19:20:53 --> Undefined property: App\Controllers\Photo::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 33)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-30 19:25:15 --> Undefined property: App\Controllers\Photo::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 32)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-30 19:26:59 --> Undefined property: App\Controllers\Photo::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 32)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-30 19:29:59 --> Undefined property: App\Controllers\Photo::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 33)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-30 19:30:09 --> Undefined property: App\Controllers\Photo::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 34)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-30 19:34:36 --> Cannot call constructor
+#0 C:\xampp\htdocs\prueba\system\CodeIgniter.php(809): App\Controllers\Photo->__construct()
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-30 19:34:51 --> Undefined property: App\Controllers\Photo::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 12)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(809): App\Controllers\Photo->__construct()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-30 19:35:00 --> Undefined property: App\Controllers\Photo::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 34)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-30 19:35:16 --> Undefined property: App\Controllers\Photo::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 33)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-30 19:35:55 --> Undefined property: App\Controllers\Photo::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 34)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-30 19:35:56 --> Undefined property: App\Controllers\Photo::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 34)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-30 19:35:57 --> Undefined property: App\Controllers\Photo::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 34)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-30 19:35:57 --> Undefined property: App\Controllers\Photo::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 34)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-30 19:35:57 --> Undefined property: App\Controllers\Photo::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 34)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-30 19:35:57 --> Undefined property: App\Controllers\Photo::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 34)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-30 19:35:57 --> Undefined property: App\Controllers\Photo::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 34)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-30 19:35:58 --> Undefined property: App\Controllers\Photo::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 34)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-30 19:35:58 --> Undefined property: App\Controllers\Photo::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 34)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-30 19:35:58 --> Undefined property: App\Controllers\Photo::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 34)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-30 19:35:58 --> Undefined property: App\Controllers\Photo::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 34)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-30 19:35:58 --> Undefined property: App\Controllers\Photo::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 34)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-30 19:35:58 --> Undefined property: App\Controllers\Photo::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 34)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-30 19:35:59 --> Undefined property: App\Controllers\Photo::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 34)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-30 19:36:00 --> Undefined property: App\Controllers\Photo::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 34)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-30 19:36:05 --> Undefined property: App\Controllers\Photo::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 11)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->index()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-30 19:40:13 --> Undefined variable $load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 33)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-30 19:40:25 --> Undefined property: App\Controllers\Photo::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 33)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-30 19:48:30 --> Undefined property: App\Controllers\Photo::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 33)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-30 19:48:30 --> Undefined property: App\Controllers\Photo::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 33)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-30 19:48:31 --> Undefined property: App\Controllers\Photo::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 33)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-30 19:48:31 --> Undefined property: App\Controllers\Photo::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 33)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-30 19:48:32 --> Undefined property: App\Controllers\Photo::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 33)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-30 19:48:32 --> Undefined property: App\Controllers\Photo::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 33)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-30 19:48:32 --> Undefined property: App\Controllers\Photo::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 33)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-30 19:48:32 --> Undefined property: App\Controllers\Photo::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 33)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-30 19:48:32 --> Undefined property: App\Controllers\Photo::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 33)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-30 19:48:32 --> Undefined property: App\Controllers\Photo::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 33)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-30 19:54:19 --> Undefined property: App\Controllers\Photo::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 12)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(809): App\Controllers\Photo->__construct()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-30 19:56:14 --> Undefined property: App\Controllers\Photo::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 37)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-30 21:07:47 --> fopen(http://localhost/prueba/public/sources/images/stamp/asd/hola.jpg/index.html): Failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(http://lo...', 'C:\\xampp\\htdocs...', 179)
+#1 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(179): fopen('http://localhos...', 'x+b')
+#2 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath('http://localhos...')
+#3 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(49): CodeIgniter\HTTP\Files\UploadedFile->move('http://localhos...')
+#4 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-30 21:08:20 --> Call to undefined method CodeIgniter\HTTP\Files\UploadedFile::copy()
+#0 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-30 21:09:28 --> fopen(http://localhost/prueba/public/sources/images/stamp/asd/index.html): Failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(http://lo...', 'C:\\xampp\\htdocs...', 179)
+#1 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(179): fopen('http://localhos...', 'x+b')
+#2 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath('http://localhos...')
+#3 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(49): CodeIgniter\HTTP\Files\UploadedFile->move('http://localhos...', 'hola.jpg')
+#4 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-30 21:10:07 --> fopen(http://localhost/prueba/sources/images/stamp/index.html): Failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(http://lo...', 'C:\\xampp\\htdocs...', 179)
+#1 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(179): fopen('http://localhos...', 'x+b')
+#2 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath('http://localhos...')
+#3 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(49): CodeIgniter\HTTP\Files\UploadedFile->move('http://localhos...', 'hola.jpg')
+#4 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-30 21:11:07 --> fopen(http://localhost/prueba/sources/images/stamp/index.html): Failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(http://lo...', 'C:\\xampp\\htdocs...', 179)
+#1 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(179): fopen('http://localhos...', 'x+b')
+#2 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath('http://localhos...')
+#3 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(49): CodeIgniter\HTTP\Files\UploadedFile->move('http://localhos...', 'hola.jpg')
+#4 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-30 21:11:09 --> fopen(http://localhost/prueba/sources/images/stamp/index.html): Failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(http://lo...', 'C:\\xampp\\htdocs...', 179)
+#1 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(179): fopen('http://localhos...', 'x+b')
+#2 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath('http://localhos...')
+#3 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(49): CodeIgniter\HTTP\Files\UploadedFile->move('http://localhos...', 'hola.jpg')
+#4 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-30 21:17:26 --> fopen(http://localhost/prueba/sources/images/stamp/index.html): Failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(http://lo...', 'C:\\xampp\\htdocs...', 179)
+#1 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(179): fopen('http://localhos...', 'x+b')
+#2 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath('http://localhos...')
+#3 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(53): CodeIgniter\HTTP\Files\UploadedFile->move('http://localhos...', 'hola.jpg')
+#4 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-30 21:17:55 --> fopen(http://localhost/prueba/sources/images/stamp/index.html): Failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(http://lo...', 'C:\\xampp\\htdocs...', 179)
+#1 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(179): fopen('http://localhos...', 'x+b')
+#2 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath('http://localhos...')
+#3 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(53): CodeIgniter\HTTP\Files\UploadedFile->move('http://localhos...', 'hola.jpg')
+#4 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-30 21:18:07 --> fopen(http://localhost/prueba/sources/images/stamp/index.html): Failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(http://lo...', 'C:\\xampp\\htdocs...', 179)
+#1 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(179): fopen('http://localhos...', 'x+b')
+#2 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath('http://localhos...')
+#3 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(53): CodeIgniter\HTTP\Files\UploadedFile->move('http://localhos...', 'hola.jpg')
+#4 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-30 21:18:09 --> fopen(http://localhost/prueba/sources/images/stamp/index.html): Failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(http://lo...', 'C:\\xampp\\htdocs...', 179)
+#1 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(179): fopen('http://localhos...', 'x+b')
+#2 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath('http://localhos...')
+#3 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(53): CodeIgniter\HTTP\Files\UploadedFile->move('http://localhos...', 'hola.jpg')
+#4 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-30 21:19:16 --> fopen(http://localhost/prueba/sources/images/stamp/index.html): Failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(http://lo...', 'C:\\xampp\\htdocs...', 179)
+#1 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(179): fopen('http://localhos...', 'x+b')
+#2 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath('http://localhos...')
+#3 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(53): CodeIgniter\HTTP\Files\UploadedFile->move('http://localhos...', 'hola.jpg')
+#4 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-30 21:19:24 --> fopen(http://localhost/prueba/sources/images/stamp/index.html): Failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(http://lo...', 'C:\\xampp\\htdocs...', 179)
+#1 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(179): fopen('http://localhos...', 'x+b')
+#2 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath('http://localhos...')
+#3 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(50): CodeIgniter\HTTP\Files\UploadedFile->move('http://localhos...', 'hola.jpg')
+#4 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-30 21:21:31 --> fopen(http://localhost/prueba/sources/images/stamp/index.html): Failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(http://lo...', 'C:\\xampp\\htdocs...', 179)
+#1 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(179): fopen('http://localhos...', 'x+b')
+#2 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath('http://localhos...')
+#3 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(50): CodeIgniter\HTTP\Files\UploadedFile->move('http://localhos...', 'hola.jpg')
+#4 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-30 21:21:33 --> fopen(http://localhost/prueba/sources/images/stamp/index.html): Failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(http://lo...', 'C:\\xampp\\htdocs...', 179)
+#1 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(179): fopen('http://localhos...', 'x+b')
+#2 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath('http://localhos...')
+#3 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(50): CodeIgniter\HTTP\Files\UploadedFile->move('http://localhos...', 'hola.jpg')
+#4 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-30 21:21:36 --> fopen(http://localhost/prueba/sources/images/stam/index.html): Failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(http://lo...', 'C:\\xampp\\htdocs...', 179)
+#1 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(179): fopen('http://localhos...', 'x+b')
+#2 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath('http://localhos...')
+#3 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(50): CodeIgniter\HTTP\Files\UploadedFile->move('http://localhos...', 'hola.jpg')
+#4 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-30 21:21:40 --> fopen(http://localhost/prueba/sources/images/stamp/index.html): Failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(http://lo...', 'C:\\xampp\\htdocs...', 179)
+#1 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(179): fopen('http://localhos...', 'x+b')
+#2 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath('http://localhos...')
+#3 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(50): CodeIgniter\HTTP\Files\UploadedFile->move('http://localhos...', 'hola.jpg')
+#4 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-30 21:22:53 --> fopen(http://localhost/prueba/sources/images/stamp/index.html): Failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(http://lo...', 'C:\\xampp\\htdocs...', 179)
+#1 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(179): fopen('http://localhos...', 'x+b')
+#2 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath('http://localhos...')
+#3 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(52): CodeIgniter\HTTP\Files\UploadedFile->move('http://localhos...', 'hola.jpg')
+#4 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-30 21:26:23 --> mkdir(): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mkdir(): No suc...', 'C:\\xampp\\htdocs...', 176)
+#1 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(176): mkdir('C:\\xampp\\htdocs...', 511, true)
+#2 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(341): CodeIgniter\HTTP\Files\UploadedFile->move('C:\\xampp\\htdocs...', 'hola.jpg')
+#4 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(53): CodeIgniter\HTTP\Files\UploadedFile->store('http://localhos...', 'hola.jpg')
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#7 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-30 21:27:34 --> mkdir(): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mkdir(): No suc...', 'C:\\xampp\\htdocs...', 176)
+#1 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(176): mkdir('C:\\xampp\\htdocs...', 511, true)
+#2 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(341): CodeIgniter\HTTP\Files\UploadedFile->move('C:\\xampp\\htdocs...', 'hola.jpg')
+#4 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(54): CodeIgniter\HTTP\Files\UploadedFile->store('http://localhos...', 'hola.jpg')
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#7 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-30 21:29:00 --> mkdir(): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mkdir(): No suc...', 'C:\\xampp\\htdocs...', 176)
+#1 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(176): mkdir('C:\\xampp\\htdocs...', 511, true)
+#2 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(341): CodeIgniter\HTTP\Files\UploadedFile->move('C:\\xampp\\htdocs...', '1651372140_f803...')
+#4 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(54): CodeIgniter\HTTP\Files\UploadedFile->store('http://localhos...')
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#7 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-30 21:29:02 --> mkdir(): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mkdir(): No suc...', 'C:\\xampp\\htdocs...', 176)
+#1 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(176): mkdir('C:\\xampp\\htdocs...', 511, true)
+#2 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(341): CodeIgniter\HTTP\Files\UploadedFile->move('C:\\xampp\\htdocs...', '1651372142_163f...')
+#4 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(54): CodeIgniter\HTTP\Files\UploadedFile->store('http://localhos...')
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#7 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-30 21:29:02 --> mkdir(): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mkdir(): No suc...', 'C:\\xampp\\htdocs...', 176)
+#1 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(176): mkdir('C:\\xampp\\htdocs...', 511, true)
+#2 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(341): CodeIgniter\HTTP\Files\UploadedFile->move('C:\\xampp\\htdocs...', '1651372142_565b...')
+#4 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(54): CodeIgniter\HTTP\Files\UploadedFile->store('http://localhos...')
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#7 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-30 21:29:03 --> mkdir(): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mkdir(): No suc...', 'C:\\xampp\\htdocs...', 176)
+#1 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(176): mkdir('C:\\xampp\\htdocs...', 511, true)
+#2 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(341): CodeIgniter\HTTP\Files\UploadedFile->move('C:\\xampp\\htdocs...', '1651372143_6de7...')
+#4 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(54): CodeIgniter\HTTP\Files\UploadedFile->store('http://localhos...')
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#7 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-30 21:29:04 --> mkdir(): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mkdir(): No suc...', 'C:\\xampp\\htdocs...', 176)
+#1 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(176): mkdir('C:\\xampp\\htdocs...', 511, true)
+#2 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(341): CodeIgniter\HTTP\Files\UploadedFile->move('C:\\xampp\\htdocs...', '1651372144_ece6...')
+#4 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(54): CodeIgniter\HTTP\Files\UploadedFile->store('http://localhos...')
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#7 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-30 21:29:31 --> mkdir(): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mkdir(): No suc...', 'C:\\xampp\\htdocs...', 176)
+#1 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(176): mkdir('C:\\xampp\\htdocs...', 511, true)
+#2 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(341): CodeIgniter\HTTP\Files\UploadedFile->move('C:\\xampp\\htdocs...', '1651372171_d029...')
+#4 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(54): CodeIgniter\HTTP\Files\UploadedFile->store('http://localhos...')
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#7 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-30 21:29:56 --> mkdir(): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mkdir(): No suc...', 'C:\\xampp\\htdocs...', 176)
+#1 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(176): mkdir('C:\\xampp\\htdocs...', 511, true)
+#2 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(341): CodeIgniter\HTTP\Files\UploadedFile->move('C:\\xampp\\htdocs...', '1651372196_eeb7...')
+#4 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(54): CodeIgniter\HTTP\Files\UploadedFile->store('http://localhos...')
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#7 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-30 21:29:57 --> mkdir(): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mkdir(): No suc...', 'C:\\xampp\\htdocs...', 176)
+#1 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(176): mkdir('C:\\xampp\\htdocs...', 511, true)
+#2 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(341): CodeIgniter\HTTP\Files\UploadedFile->move('C:\\xampp\\htdocs...', '1651372197_e8ce...')
+#4 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(54): CodeIgniter\HTTP\Files\UploadedFile->store('http://localhos...')
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#7 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-30 21:30:18 --> mkdir(): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mkdir(): No suc...', 'C:\\xampp\\htdocs...', 176)
+#1 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(176): mkdir('C:\\xampp\\htdocs...', 511, true)
+#2 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(341): CodeIgniter\HTTP\Files\UploadedFile->move('C:\\xampp\\htdocs...', 'hola.jpg')
+#4 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(54): CodeIgniter\HTTP\Files\UploadedFile->store('http://localhos...', 'hola.jpg')
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#7 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-30 21:30:25 --> mkdir(): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mkdir(): No suc...', 'C:\\xampp\\htdocs...', 176)
+#1 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(176): mkdir('C:\\xampp\\htdocs...', 511, true)
+#2 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(341): CodeIgniter\HTTP\Files\UploadedFile->move('C:\\xampp\\htdocs...', 'hola.jpeg')
+#4 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(54): CodeIgniter\HTTP\Files\UploadedFile->store('http://localhos...', 'hola.jpeg')
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#7 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-30 21:30:39 --> mkdir(): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mkdir(): No suc...', 'C:\\xampp\\htdocs...', 176)
+#1 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(176): mkdir('C:\\xampp\\htdocs...', 511, true)
+#2 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(341): CodeIgniter\HTTP\Files\UploadedFile->move('C:\\xampp\\htdocs...', 'hola.jpg')
+#4 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(54): CodeIgniter\HTTP\Files\UploadedFile->store('http://localhos...', 'hola.jpg')
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#7 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-30 21:30:40 --> mkdir(): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mkdir(): No suc...', 'C:\\xampp\\htdocs...', 176)
+#1 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(176): mkdir('C:\\xampp\\htdocs...', 511, true)
+#2 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(341): CodeIgniter\HTTP\Files\UploadedFile->move('C:\\xampp\\htdocs...', 'hola.jpg')
+#4 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(54): CodeIgniter\HTTP\Files\UploadedFile->store('http://localhos...', 'hola.jpg')
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#7 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-30 21:30:41 --> mkdir(): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mkdir(): No suc...', 'C:\\xampp\\htdocs...', 176)
+#1 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(176): mkdir('C:\\xampp\\htdocs...', 511, true)
+#2 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(341): CodeIgniter\HTTP\Files\UploadedFile->move('C:\\xampp\\htdocs...', 'hola.jpg')
+#4 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(54): CodeIgniter\HTTP\Files\UploadedFile->store('http://localhos...', 'hola.jpg')
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#7 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-30 21:32:20 --> mkdir(): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mkdir(): No suc...', 'C:\\xampp\\htdocs...', 176)
+#1 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(176): mkdir('C:\\xampp\\htdocs...', 511, true)
+#2 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(341): CodeIgniter\HTTP\Files\UploadedFile->move('C:\\xampp\\htdocs...', 'hola.jpg')
+#4 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(55): CodeIgniter\HTTP\Files\UploadedFile->store('http://localhos...', 'hola.jpg')
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#7 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-30 21:47:02 --> mkdir(): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mkdir(): No suc...', 'C:\\xampp\\htdocs...', 176)
+#1 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(176): mkdir('C:\\xampp\\htdocs...', 511, true)
+#2 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(341): CodeIgniter\HTTP\Files\UploadedFile->move('C:\\xampp\\htdocs...', 'hola.jpg')
+#4 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(54): CodeIgniter\HTTP\Files\UploadedFile->store('http://localhos...', 'hola.jpg')
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#7 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-30 22:08:04 --> Undefined variable $deps
+#0 C:\xampp\htdocs\prueba\app\Views\departures_view.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 45)
+#1 C:\xampp\htdocs\prueba\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\prueba\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\prueba\system\Common.php(1089): CodeIgniter\View\View->render('departures_view', Array, true)
+#4 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(58): view('departures_view')
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#7 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-30 22:41:27 --> fopen(http://localhost/prueba/public/uploads/index.html): Failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(http://lo...', 'C:\\xampp\\htdocs...', 179)
+#1 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(179): fopen('http://localhos...', 'x+b')
+#2 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath('http://localhos...')
+#3 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(58): CodeIgniter\HTTP\Files\UploadedFile->move('http://localhos...')
+#4 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-30 22:42:32 --> fopen(http://localhost/prueba/public/writable/uploads/index.html): Failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(http://lo...', 'C:\\xampp\\htdocs...', 179)
+#1 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(179): fopen('http://localhos...', 'x+b')
+#2 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath('http://localhos...')
+#3 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(58): CodeIgniter\HTTP\Files\UploadedFile->move('http://localhos...')
+#4 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-30 22:43:06 --> fopen(http://localhost/prueba/public/writable/uploads/index.html): Failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(http://lo...', 'C:\\xampp\\htdocs...', 179)
+#1 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(179): fopen('http://localhos...', 'x+b')
+#2 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath('http://localhos...')
+#3 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(58): CodeIgniter\HTTP\Files\UploadedFile->move('http://localhos...')
+#4 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-30 22:44:44 --> fopen(http://localhost/prueba/public/writable/uploads/index.html): Failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(http://lo...', 'C:\\xampp\\htdocs...', 179)
+#1 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(179): fopen('http://localhos...', 'x+b')
+#2 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath('http://localhos...')
+#3 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(59): CodeIgniter\HTTP\Files\UploadedFile->move('http://localhos...')
+#4 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-30 22:44:45 --> fopen(http://localhost/prueba/public/writable/uploads/index.html): Failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(http://lo...', 'C:\\xampp\\htdocs...', 179)
+#1 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(179): fopen('http://localhos...', 'x+b')
+#2 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath('http://localhos...')
+#3 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(59): CodeIgniter\HTTP\Files\UploadedFile->move('http://localhos...')
+#4 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-30 22:44:46 --> fopen(http://localhost/prueba/public/writable/uploads/index.html): Failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(http://lo...', 'C:\\xampp\\htdocs...', 179)
+#1 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(179): fopen('http://localhos...', 'x+b')
+#2 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath('http://localhos...')
+#3 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(59): CodeIgniter\HTTP\Files\UploadedFile->move('http://localhos...')
+#4 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-30 22:44:55 --> fopen(http://localhost/prueba/public/writable/uploads/index.html): Failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(http://lo...', 'C:\\xampp\\htdocs...', 179)
+#1 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(179): fopen('http://localhos...', 'x+b')
+#2 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath('http://localhos...')
+#3 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(59): CodeIgniter\HTTP\Files\UploadedFile->move('http://localhos...')
+#4 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-30 22:44:56 --> fopen(http://localhost/prueba/public/writable/uploads/index.html): Failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(http://lo...', 'C:\\xampp\\htdocs...', 179)
+#1 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(179): fopen('http://localhos...', 'x+b')
+#2 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath('http://localhos...')
+#3 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(59): CodeIgniter\HTTP\Files\UploadedFile->move('http://localhos...')
+#4 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-30 22:44:56 --> fopen(http://localhost/prueba/public/writable/uploads/index.html): Failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(http://lo...', 'C:\\xampp\\htdocs...', 179)
+#1 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(179): fopen('http://localhos...', 'x+b')
+#2 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath('http://localhos...')
+#3 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(59): CodeIgniter\HTTP\Files\UploadedFile->move('http://localhos...')
+#4 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-30 22:44:57 --> fopen(http://localhost/prueba/public/writable/uploads/index.html): Failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(http://lo...', 'C:\\xampp\\htdocs...', 179)
+#1 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(179): fopen('http://localhos...', 'x+b')
+#2 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath('http://localhos...')
+#3 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(59): CodeIgniter\HTTP\Files\UploadedFile->move('http://localhos...')
+#4 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-30 22:44:57 --> fopen(http://localhost/prueba/public/writable/uploads/index.html): Failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(http://lo...', 'C:\\xampp\\htdocs...', 179)
+#1 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(179): fopen('http://localhos...', 'x+b')
+#2 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath('http://localhos...')
+#3 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(59): CodeIgniter\HTTP\Files\UploadedFile->move('http://localhos...')
+#4 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-30 22:44:57 --> fopen(http://localhost/prueba/public/writable/uploads/index.html): Failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(http://lo...', 'C:\\xampp\\htdocs...', 179)
+#1 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(179): fopen('http://localhos...', 'x+b')
+#2 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath('http://localhos...')
+#3 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(59): CodeIgniter\HTTP\Files\UploadedFile->move('http://localhos...')
+#4 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-30 22:44:57 --> fopen(http://localhost/prueba/public/writable/uploads/index.html): Failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(http://lo...', 'C:\\xampp\\htdocs...', 179)
+#1 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(179): fopen('http://localhos...', 'x+b')
+#2 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath('http://localhos...')
+#3 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(59): CodeIgniter\HTTP\Files\UploadedFile->move('http://localhos...')
+#4 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-30 22:44:57 --> fopen(http://localhost/prueba/public/writable/uploads/index.html): Failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(http://lo...', 'C:\\xampp\\htdocs...', 179)
+#1 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(179): fopen('http://localhos...', 'x+b')
+#2 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath('http://localhos...')
+#3 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(59): CodeIgniter\HTTP\Files\UploadedFile->move('http://localhos...')
+#4 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-30 22:44:57 --> fopen(http://localhost/prueba/public/writable/uploads/index.html): Failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(http://lo...', 'C:\\xampp\\htdocs...', 179)
+#1 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(179): fopen('http://localhos...', 'x+b')
+#2 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath('http://localhos...')
+#3 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(59): CodeIgniter\HTTP\Files\UploadedFile->move('http://localhos...')
+#4 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-30 22:44:58 --> fopen(http://localhost/prueba/public/writable/uploads/index.html): Failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(http://lo...', 'C:\\xampp\\htdocs...', 179)
+#1 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(179): fopen('http://localhos...', 'x+b')
+#2 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath('http://localhos...')
+#3 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(59): CodeIgniter\HTTP\Files\UploadedFile->move('http://localhos...')
+#4 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-30 22:45:45 --> fopen(http://localhost/prueba/public/writable/uploads/index.html): Failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(http://lo...', 'C:\\xampp\\htdocs...', 179)
+#1 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(179): fopen('http://localhos...', 'x+b')
+#2 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath('http://localhos...')
+#3 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(59): CodeIgniter\HTTP\Files\UploadedFile->move('http://localhos...')
+#4 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-30 22:46:53 --> fopen(http://localhost/prueba/public/writable/uploads/index.html): Failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(http://lo...', 'C:\\xampp\\htdocs...', 179)
+#1 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(179): fopen('http://localhos...', 'x+b')
+#2 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath('http://localhos...')
+#3 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(59): CodeIgniter\HTTP\Files\UploadedFile->move('http://localhos...')
+#4 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-30 22:46:58 --> fopen(http://localhost/prueba/public/writable/uploads/index.html): Failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(http://lo...', 'C:\\xampp\\htdocs...', 179)
+#1 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(179): fopen('http://localhos...', 'x+b')
+#2 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath('http://localhos...')
+#3 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(59): CodeIgniter\HTTP\Files\UploadedFile->move('http://localhos...')
+#4 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-30 22:47:03 --> fopen(http://localhost/prueba/public/writable/uploads/index.html): Failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(http://lo...', 'C:\\xampp\\htdocs...', 179)
+#1 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(179): fopen('http://localhos...', 'x+b')
+#2 C:\xampp\htdocs\prueba\system\HTTP\Files\UploadedFile.php(130): CodeIgniter\HTTP\Files\UploadedFile->setPath('http://localhos...')
+#3 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(59): CodeIgniter\HTTP\Files\UploadedFile->move('http://localhos...')
+#4 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-30 22:55:07 --> move_uploaded_file() expects exactly 2 arguments, 3 given
+#0 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(61): move_uploaded_file('C:\\xampp\\htdocs...', '12.jpg', 'http://localhos...')
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-30 23:10:24 --> move_uploaded_file(http://localhost/prueba/sources/images/stampwhat.jpg): Failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'move_uploaded_f...', 'C:\\xampp\\htdocs...', 62)
+#1 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(62): move_uploaded_file('C:\\xampp\\tmp\\ph...', 'http://localhos...')
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#4 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-30 23:11:33 --> move_uploaded_file(http://localhost/prueba/public/uploadswhat.jpg): Failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'move_uploaded_f...', 'C:\\xampp\\htdocs...', 62)
+#1 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(62): move_uploaded_file('C:\\xampp\\tmp\\ph...', 'http://localhos...')
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#4 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-30 23:12:47 --> move_uploaded_file(uploads/what.jpg): Failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'move_uploaded_f...', 'C:\\xampp\\htdocs...', 62)
+#1 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(62): move_uploaded_file('C:\\xampp\\tmp\\ph...', 'uploads/what.jp...')
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#4 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-30 23:13:07 --> move_uploaded_file(http://localhost/prueba/public/uploads/what.jpg): Failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'move_uploaded_f...', 'C:\\xampp\\htdocs...', 62)
+#1 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(62): move_uploaded_file('C:\\xampp\\tmp\\ph...', 'http://localhos...')
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#4 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-30 23:13:18 --> move_uploaded_file(http://localhost/prueba/public/uploads/what.jpg): Failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'move_uploaded_f...', 'C:\\xampp\\htdocs...', 62)
+#1 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(62): move_uploaded_file('C:\\xampp\\tmp\\ph...', 'http://localhos...')
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#4 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-30 23:13:57 --> move_uploaded_file(http://localhost/prueba/public/uploads/12.jpg): Failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'move_uploaded_f...', 'C:\\xampp\\htdocs...', 62)
+#1 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(62): move_uploaded_file('C:\\xampp\\tmp\\ph...', 'http://localhos...')
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#4 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-30 23:14:20 --> move_uploaded_file(http://localhost/prueba/sources/12.jpg): Failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'move_uploaded_f...', 'C:\\xampp\\htdocs...', 62)
+#1 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(62): move_uploaded_file('C:\\xampp\\tmp\\ph...', 'http://localhos...')
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#4 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-30 23:18:42 --> move_uploaded_file(http://localhost/prueba/sources/12.jpg): Failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'move_uploaded_f...', 'C:\\xampp\\htdocs...', 63)
+#1 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(63): move_uploaded_file('C:\\xampp\\tmp\\ph...', 'http://localhos...')
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#4 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-30 23:21:50 --> move_uploaded_file(./assets/image/12.jpg): Failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'move_uploaded_f...', 'C:\\xampp\\htdocs...', 64)
+#1 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(64): move_uploaded_file('C:\\xampp\\tmp\\ph...', './assets/image/...')
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#4 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-30 23:22:15 --> move_uploaded_file(../assets/image/12.jpg): Failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'move_uploaded_f...', 'C:\\xampp\\htdocs...', 64)
+#1 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(64): move_uploaded_file('C:\\xampp\\tmp\\ph...', '../assets/image...')
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#4 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-30 23:25:09 --> move_uploaded_file(http://localhost/prueba/public/12.jpg): Failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'move_uploaded_f...', 'C:\\xampp\\htdocs...', 64)
+#1 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(64): move_uploaded_file('C:\\xampp\\tmp\\ph...', 'http://localhos...')
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#4 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-30 23:25:31 --> move_uploaded_file(http://localhost/prueba/public/readable/12.jpg): Failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'move_uploaded_f...', 'C:\\xampp\\htdocs...', 64)
+#1 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(64): move_uploaded_file('C:\\xampp\\tmp\\ph...', 'http://localhos...')
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#4 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-30 23:25:45 --> move_uploaded_file(http://localhost/prueba/public/uploads/12.jpg): Failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'move_uploaded_f...', 'C:\\xampp\\htdocs...', 64)
+#1 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(64): move_uploaded_file('C:\\xampp\\tmp\\ph...', 'http://localhos...')
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#4 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-30 23:25:52 --> move_uploaded_file(http://localhost/prueba/public/writable/12.jpg): Failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'move_uploaded_f...', 'C:\\xampp\\htdocs...', 64)
+#1 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(64): move_uploaded_file('C:\\xampp\\tmp\\ph...', 'http://localhos...')
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#4 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-30 23:30:43 --> move_uploaded_file(./hola/12.jpg): Failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'move_uploaded_f...', 'C:\\xampp\\htdocs...', 65)
+#1 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(65): move_uploaded_file('C:\\xampp\\tmp\\ph...', './hola/12.jpg')
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#4 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-30 23:41:55 --> move_uploaded_file(././sources/images/stamp/2.jpg): Failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'move_uploaded_f...', 'C:\\xampp\\htdocs...', 62)
+#1 C:\xampp\htdocs\prueba\app\Controllers\Photo.php(62): move_uploaded_file('C:\\xampp\\tmp\\ph...', '././sources/ima...')
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Photo->insert()
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Photo))
+#4 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}

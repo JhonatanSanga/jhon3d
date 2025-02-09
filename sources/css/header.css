@@ -1,0 +1,77 @@
+.logo {
+    width: 10em;
+    margin: 1rem;
+}
+
+.header {
+    align-items: center;
+    justify-content: space-between;
+    background-color: #fff;
+    padding-right: 2em;
+}
+
+.active {
+    font-weight: bold;
+}
+
+.nav {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.nav a {
+    text-decoration: none;
+    color: #545454;
+}
+
+.nav li a {
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.toggle-button {
+    display: none;
+    position: fixed;
+}
+
+@media(max-width: 35em) {
+    .nav {
+        --gap: 2em;
+        position: fixed;
+        flex-direction: column;
+        padding: min(30vh, 10rem) 2em;
+        inset: 0 0 0 30%;
+        background: rgba(0, 0, 0, 0.2);
+        backdrop-filter: blur(1rem);
+        z-index: 1000;
+
+        transform: translateX(100%);
+        transition: transform 350ms ease-in-out;
+    }
+
+    .nav[data-visible="true"] {
+        transform: translateX(0%);
+    }
+
+    .toggle-button {
+        display: block;
+        position: fixed;
+        z-index: 9999;
+        width: 3rem;
+        background: none;
+        aspect-ratio: 1;
+        border-style: none;
+        top: 0.8rem;
+        right: 2rem;
+    }
+    .nav a{
+        color: rgb(240, 240, 240);
+        text-shadow: 4px 4px 5px black;
+    }
+    .active {
+        color: rgb(255, 255, 255);
+        font-size: larger;
+    }
+}

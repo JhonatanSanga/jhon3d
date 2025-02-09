@@ -1,0 +1,47 @@
+footer {
+    background-color: #696969;
+}
+
+footer h1,
+footer h2,
+footer p {
+    text-align: center;
+    color: white;
+}
+
+.contacts {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding-bottom: 15px;
+}
+
+.contact {
+    width: 50px;
+    margin: 2em;
+}
+
+.contact path {
+    fill: white;
+}
+
+
+.fb :hover {
+    fill: #4267B2;
+}
+
+.wp :hover {
+    fill: #25D366;
+}
+
+.yt :hover {
+    fill: #FF0000;
+}
+
+.ig :hover {
+    fill: #833AB4;
+}
+.vm :hover {
+    fill: #1ab7ea;
+}

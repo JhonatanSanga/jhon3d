@@ -1,0 +1,17 @@
+.movie-galery {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: auto;
+}
+
+.movie-galery img {
+    width: 25%;
+}
+
+@media(max-width: 35em) {
+    .movie-galery img {
+        width: 90vw;
+    }
+}

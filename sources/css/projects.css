@@ -1,0 +1,36 @@
+.container {
+    padding: 2em;
+}
+
+.title {
+    text-align: center;
+    margin: 2rem 0;
+}
+
+.projects {
+    width: 100%;
+}
+
+.project {
+    margin: auto;
+    width: 60vw;
+    margin-bottom: 50px;
+}
+
+.project img {
+    width: 100%;
+}
+
+.project-content {
+    text-align: justify;
+}
+
+@media(max-width: 35em) {
+    .project {
+        width: 100%;
+    }
+}
+
+.project h2{
+    margin-top: 0.5em;
+}

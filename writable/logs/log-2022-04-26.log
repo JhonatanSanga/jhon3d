@@ -1,0 +1,562 @@
+CRITICAL - 2022-04-26 18:21:47 --> Undefined property: App\Controllers\Client::$corte_model
+#0 C:\xampp\htdocs\prueba\app\Controllers\Client.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-26 18:22:38 --> Undefined property: App\Controllers\Client::$corte_model
+#0 C:\xampp\htdocs\prueba\app\Controllers\Client.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-26 18:22:39 --> Undefined property: App\Controllers\Client::$corte_model
+#0 C:\xampp\htdocs\prueba\app\Controllers\Client.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-26 18:22:39 --> Undefined property: App\Controllers\Client::$corte_model
+#0 C:\xampp\htdocs\prueba\app\Controllers\Client.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-26 18:23:01 --> Undefined property: App\Controllers\Client::$corte_model
+#0 C:\xampp\htdocs\prueba\app\Controllers\Client.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-26 18:23:47 --> Undefined property: App\Controllers\Client::$corte_model
+#0 C:\xampp\htdocs\prueba\app\Controllers\Client.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-26 18:24:04 --> Undefined property: App\Controllers\Client::$corte_model
+#0 C:\xampp\htdocs\prueba\app\Controllers\Client.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-26 18:24:27 --> Undefined property: App\Controllers\Client::$corte_model
+#0 C:\xampp\htdocs\prueba\app\Controllers\Client.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-26 18:24:28 --> Undefined property: App\Controllers\Client::$corte_model
+#0 C:\xampp\htdocs\prueba\app\Controllers\Client.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-26 18:24:30 --> Undefined property: App\Controllers\Client::$corte_model
+#0 C:\xampp\htdocs\prueba\app\Controllers\Client.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-26 18:24:38 --> Undefined property: App\Controllers\Client::$corte_model
+#0 C:\xampp\htdocs\prueba\app\Controllers\Client.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-26 18:24:52 --> Undefined property: App\Controllers\Client::$corte_model
+#0 C:\xampp\htdocs\prueba\app\Controllers\Client.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-26 18:24:55 --> Undefined property: App\Controllers\Client::$corte_model
+#0 C:\xampp\htdocs\prueba\app\Controllers\Client.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-26 18:26:27 --> Undefined property: App\Controllers\Client::$corte_model
+#0 C:\xampp\htdocs\prueba\app\Controllers\Client.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-26 18:26:30 --> Undefined property: App\Controllers\Client::$corte_model
+#0 C:\xampp\htdocs\prueba\app\Controllers\Client.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-26 18:30:31 --> Undefined property: App\Controllers\Client::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Client.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-26 18:31:37 --> Undefined property: App\Controllers\Client::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Client.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-26 18:31:38 --> Undefined property: App\Controllers\Client::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Client.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-26 18:31:39 --> Undefined property: App\Controllers\Client::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Client.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-26 18:31:39 --> Undefined property: App\Controllers\Client::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Client.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-26 18:31:39 --> Undefined property: App\Controllers\Client::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Client.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-26 18:31:39 --> Undefined property: App\Controllers\Client::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Client.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-26 18:31:40 --> Undefined property: App\Controllers\Client::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Client.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-26 18:31:40 --> Undefined property: App\Controllers\Client::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Client.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-26 18:31:40 --> Undefined property: App\Controllers\Client::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Client.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-26 18:31:40 --> Undefined property: App\Controllers\Client::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Client.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-26 18:31:40 --> Undefined property: App\Controllers\Client::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Client.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-26 18:31:40 --> Undefined property: App\Controllers\Client::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Client.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-26 18:31:40 --> Undefined property: App\Controllers\Client::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Client.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-26 18:31:41 --> Undefined property: App\Controllers\Client::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Client.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-26 18:31:41 --> Undefined property: App\Controllers\Client::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Client.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-26 18:31:41 --> Undefined property: App\Controllers\Client::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Client.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-26 18:31:41 --> Undefined property: App\Controllers\Client::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Client.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-26 18:31:41 --> Undefined property: App\Controllers\Client::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Client.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-26 18:31:41 --> Undefined property: App\Controllers\Client::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Client.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-26 18:31:42 --> Undefined property: App\Controllers\Client::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Client.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-26 18:31:51 --> Undefined property: App\Controllers\Client::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Client.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-26 18:33:46 --> Undefined property: App\Controllers\Client::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Client.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-26 18:33:53 --> Undefined property: App\Controllers\Client::$db
+#0 C:\xampp\htdocs\prueba\app\Controllers\Client.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 25)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-26 18:33:59 --> Undefined property: App\Controllers\Client::$db
+#0 C:\xampp\htdocs\prueba\app\Controllers\Client.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 25)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-26 18:34:14 --> Undefined property: App\Controllers\Client::$db
+#0 C:\xampp\htdocs\prueba\app\Controllers\Client.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 25)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-26 18:34:38 --> Undefined property: App\Controllers\Client::$db
+#0 C:\xampp\htdocs\prueba\app\Controllers\Client.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-26 18:34:49 --> Undefined property: App\Controllers\Client::$load
+#0 C:\xampp\htdocs\prueba\app\Controllers\Client.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-26 18:36:28 --> Undefined property: App\Controllers\Client::$corte_model
+#0 C:\xampp\htdocs\prueba\app\Controllers\Client.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-26 18:36:40 --> Undefined property: App\Controllers\Client::$cortemodel
+#0 C:\xampp\htdocs\prueba\app\Controllers\Client.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-26 18:43:35 --> Class "App\Models\Cortemodel" not found
+#0 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-26 18:44:55 --> Class "App\Models\Cortemodel" not found
+#0 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-26 18:44:56 --> Class "App\Models\Cortemodel" not found
+#0 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-26 18:44:57 --> Class "App\Models\Cortemodel" not found
+#0 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-26 18:44:57 --> Class "App\Models\Cortemodel" not found
+#0 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-26 18:44:57 --> Class "App\Models\Cortemodel" not found
+#0 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-26 18:44:57 --> Class "App\Models\Cortemodel" not found
+#0 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-26 18:44:57 --> Class "App\Models\Cortemodel" not found
+#0 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-26 18:44:57 --> Class "App\Models\Cortemodel" not found
+#0 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-26 18:44:58 --> Class "App\Models\Cortemodel" not found
+#0 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-26 18:44:58 --> Class "App\Models\Cortemodel" not found
+#0 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-26 18:44:58 --> Class "App\Models\Cortemodel" not found
+#0 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-26 18:45:07 --> Class "App\Models\CorteModel" not found
+#0 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-26 18:45:08 --> Class "App\Models\CorteModel" not found
+#0 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-26 18:45:08 --> Class "App\Models\CorteModel" not found
+#0 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-26 18:45:09 --> Class "App\Models\CorteModel" not found
+#0 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-26 18:45:09 --> Class "App\Models\CorteModel" not found
+#0 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-26 18:45:09 --> Class "App\Models\CorteModel" not found
+#0 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-26 18:45:09 --> Class "App\Models\CorteModel" not found
+#0 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-26 18:45:09 --> Class "App\Models\CorteModel" not found
+#0 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-26 18:45:09 --> Class "App\Models\CorteModel" not found
+#0 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-26 18:45:10 --> Class "App\Models\CorteModel" not found
+#0 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-26 18:45:10 --> Class "App\Models\CorteModel" not found
+#0 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-26 18:45:10 --> Class "App\Models\CorteModel" not found
+#0 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-26 18:45:10 --> Class "App\Models\CorteModel" not found
+#0 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-26 18:45:10 --> Class "App\Models\CorteModel" not found
+#0 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-26 18:45:10 --> Class "App\Models\CorteModel" not found
+#0 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-26 18:45:10 --> Class "App\Models\CorteModel" not found
+#0 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-26 18:45:11 --> Class "App\Models\CorteModel" not found
+#0 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-26 18:45:34 --> Class "App\Models\CorteModel" not found
+#0 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-26 18:45:35 --> Class "App\Models\CorteModel" not found
+#0 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-26 18:45:58 --> Class "App\Models\CorteModel" not found
+#0 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-26 18:46:55 --> Class "App\Models\CorteModel" not found
+#0 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-26 18:46:56 --> Class "App\Models\CorteModel" not found
+#0 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-26 18:46:56 --> Class "App\Models\CorteModel" not found
+#0 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-26 18:46:56 --> Class "App\Models\CorteModel" not found
+#0 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-26 18:46:57 --> Class "App\Models\CorteModel" not found
+#0 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-26 18:46:57 --> Class "App\Models\CorteModel" not found
+#0 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-26 18:46:57 --> Class "App\Models\CorteModel" not found
+#0 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-26 18:46:57 --> Class "App\Models\CorteModel" not found
+#0 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-26 18:46:57 --> Class "App\Models\CorteModel" not found
+#0 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Client->client_insert()
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-04-26 18:48:10 --> Table 'db_cortes.corteads' doesn't exist

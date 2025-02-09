@@ -1,0 +1,240 @@
+CRITICAL - 2022-04-29 00:15:42 --> Undefined property: App\Controllers\Departure::$departure_model
+#0 C:\xampp\htdocs\prueba\app\Controllers\Departure.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 11)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Departure->index()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Departure))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 00:25:35 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$result
+#0 C:\xampp\htdocs\prueba\app\Views\departures_view.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 75)
+#1 C:\xampp\htdocs\prueba\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\prueba\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\prueba\system\Common.php(1089): CodeIgniter\View\View->render('departures_view', Array, true)
+#4 C:\xampp\htdocs\prueba\app\Controllers\Departure.php(14): view('departures_view', Array)
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Departure->index()
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Departure))
+#7 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-29 00:26:25 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$result
+#0 C:\xampp\htdocs\prueba\app\Views\departures_view.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 75)
+#1 C:\xampp\htdocs\prueba\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\prueba\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\prueba\system\Common.php(1089): CodeIgniter\View\View->render('departures_view', Array, true)
+#4 C:\xampp\htdocs\prueba\app\Controllers\Departure.php(14): view('departures_view', Array)
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Departure->index()
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Departure))
+#7 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-29 00:28:24 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$result
+#0 C:\xampp\htdocs\prueba\app\Views\departures_view.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 75)
+#1 C:\xampp\htdocs\prueba\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\prueba\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\prueba\system\Common.php(1089): CodeIgniter\View\View->render('departures_view', Array, true)
+#4 C:\xampp\htdocs\prueba\app\Controllers\Departure.php(14): view('departures_view', Array)
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Departure->index()
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Departure))
+#7 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-29 00:28:25 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$result
+#0 C:\xampp\htdocs\prueba\app\Views\departures_view.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 75)
+#1 C:\xampp\htdocs\prueba\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\prueba\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\prueba\system\Common.php(1089): CodeIgniter\View\View->render('departures_view', Array, true)
+#4 C:\xampp\htdocs\prueba\app\Controllers\Departure.php(14): view('departures_view', Array)
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Departure->index()
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Departure))
+#7 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-29 00:28:26 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$result
+#0 C:\xampp\htdocs\prueba\app\Views\departures_view.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 75)
+#1 C:\xampp\htdocs\prueba\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\prueba\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\prueba\system\Common.php(1089): CodeIgniter\View\View->render('departures_view', Array, true)
+#4 C:\xampp\htdocs\prueba\app\Controllers\Departure.php(14): view('departures_view', Array)
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Departure->index()
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Departure))
+#7 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-29 00:28:35 --> Undefined variable $result
+#0 C:\xampp\htdocs\prueba\app\Views\departures_view.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 75)
+#1 C:\xampp\htdocs\prueba\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\prueba\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\prueba\system\Common.php(1089): CodeIgniter\View\View->render('departures_view', Array, true)
+#4 C:\xampp\htdocs\prueba\app\Controllers\Departure.php(14): view('departures_view', Array)
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Departure->index()
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Departure))
+#7 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-29 18:22:38 --> Constant expression contains invalid operations
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-04-29 18:22:55 --> syntax error, unexpected variable "$session", expecting "function" or "const"
+#0 C:\xampp\htdocs\prueba\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\prueba\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\prueba\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-29 18:27:04 --> Undefined array key "user"
+#0 C:\xampp\htdocs\prueba\app\Controllers\Home.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 12)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 18:27:31 --> Undefined array key "user"
+#0 C:\xampp\htdocs\prueba\app\Controllers\Home.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 19)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Home->login()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 18:27:37 --> Undefined array key "user"
+#0 C:\xampp\htdocs\prueba\app\Controllers\Home.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 19)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Home->login()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 18:28:05 --> Undefined array key "user"
+#0 C:\xampp\htdocs\prueba\app\Controllers\Home.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 26)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Home->login_validate()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 18:28:50 --> Array to string conversion
+#0 C:\xampp\htdocs\prueba\app\Controllers\Home.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 26)
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Home->login_validate()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 19:03:15 --> Undefined variable $session
+#0 C:\xampp\htdocs\prueba\app\Views\layout\header.php(67): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 67)
+#1 C:\xampp\htdocs\prueba\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\prueba\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\prueba\system\Common.php(1089): CodeIgniter\View\View->render('layout/header', Array, true)
+#4 C:\xampp\htdocs\prueba\app\Controllers\Departure.php(13): view('layout/header')
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Departure->index()
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Departure))
+#7 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-29 20:00:20 --> Undefined variable $role
+#0 C:\xampp\htdocs\prueba\app\Views\departures_view.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 5)
+#1 C:\xampp\htdocs\prueba\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\prueba\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\prueba\system\Common.php(1089): CodeIgniter\View\View->render('departures_view', Array, true)
+#4 C:\xampp\htdocs\prueba\app\Controllers\Departure.php(14): view('departures_view', Array)
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Departure->index()
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Departure))
+#7 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-04-29 20:37:25 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`D` (`name`, `description`) VALUES ('prueba', 'prueba desc')' at line 1
+ERROR - 2022-04-29 20:38:54 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`D` (`name`, `description`) VALUES ('asd', 'asd')' at line 1
+ERROR - 2022-04-29 20:39:16 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`D` (`name`, `description`) VALUES ('asd', 'asd')' at line 1
+CRITICAL - 2022-04-29 21:02:18 --> view(): Argument #3 ($options) must be of type array, string given, called in C:\xampp\htdocs\prueba\app\Controllers\Departure.php on line 71
+#0 C:\xampp\htdocs\prueba\app\Controllers\Departure.php(71): view('departure_detai...', Array, '1')
+#1 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Departure->detail()
+#2 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Departure))
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-29 21:03:45 --> Undefined variable $options
+#0 C:\xampp\htdocs\prueba\app\Views\departure_detail_view.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 13)
+#1 C:\xampp\htdocs\prueba\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\prueba\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\prueba\system\Common.php(1089): CodeIgniter\View\View->render('departure_detai...', Array, true)
+#4 C:\xampp\htdocs\prueba\app\Controllers\Departure.php(74): view('departure_detai...', Array, Array)
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Departure->detail()
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Departure))
+#7 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-29 21:03:48 --> Undefined variable $options
+#0 C:\xampp\htdocs\prueba\app\Views\departure_detail_view.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 13)
+#1 C:\xampp\htdocs\prueba\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\prueba\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\prueba\system\Common.php(1089): CodeIgniter\View\View->render('departure_detai...', Array, true)
+#4 C:\xampp\htdocs\prueba\app\Controllers\Departure.php(74): view('departure_detai...', Array, Array)
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Departure->detail()
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Departure))
+#7 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-29 21:04:07 --> Undefined variable $options
+#0 C:\xampp\htdocs\prueba\app\Views\departure_detail_view.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 13)
+#1 C:\xampp\htdocs\prueba\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\prueba\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\prueba\system\Common.php(1089): CodeIgniter\View\View->render('departure_detai...', Array, true)
+#4 C:\xampp\htdocs\prueba\app\Controllers\Departure.php(74): view('departure_detai...', Array, Array)
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Departure->detail()
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Departure))
+#7 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-29 21:04:10 --> Undefined variable $options
+#0 C:\xampp\htdocs\prueba\app\Views\departure_detail_view.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 13)
+#1 C:\xampp\htdocs\prueba\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\prueba\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\prueba\system\Common.php(1089): CodeIgniter\View\View->render('departure_detai...', Array, true)
+#4 C:\xampp\htdocs\prueba\app\Controllers\Departure.php(74): view('departure_detai...', Array, Array)
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Departure->detail()
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Departure))
+#7 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-29 21:04:23 --> Undefined variable $options
+#0 C:\xampp\htdocs\prueba\app\Views\departure_detail_view.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 13)
+#1 C:\xampp\htdocs\prueba\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\prueba\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\prueba\system\Common.php(1089): CodeIgniter\View\View->render('departure_detai...', Array, true)
+#4 C:\xampp\htdocs\prueba\app\Controllers\Departure.php(74): view('departure_detai...', Array, Array)
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Departure->detail()
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Departure))
+#7 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-29 21:04:43 --> Undefined variable $options
+#0 C:\xampp\htdocs\prueba\app\Views\departure_detail_view.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 13)
+#1 C:\xampp\htdocs\prueba\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\prueba\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\prueba\system\Common.php(1089): CodeIgniter\View\View->render('departure_detai...', Array, true)
+#4 C:\xampp\htdocs\prueba\app\Controllers\Departure.php(74): view('departure_detai...', Array, Array)
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Departure->detail()
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Departure))
+#7 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-29 21:04:48 --> Undefined variable $options
+#0 C:\xampp\htdocs\prueba\app\Views\departure_detail_view.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 13)
+#1 C:\xampp\htdocs\prueba\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\prueba\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\prueba\system\Common.php(1089): CodeIgniter\View\View->render('departure_detai...', Array, true)
+#4 C:\xampp\htdocs\prueba\app\Controllers\Departure.php(74): view('departure_detai...', Array, Array)
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Departure->detail()
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Departure))
+#7 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-29 21:15:25 --> Undefined variable $name
+#0 C:\xampp\htdocs\prueba\app\Views\departure_detail_view.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 3)
+#1 C:\xampp\htdocs\prueba\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\prueba\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\prueba\system\Common.php(1089): CodeIgniter\View\View->render('departure_detai...', Array, true)
+#4 C:\xampp\htdocs\prueba\app\Controllers\Departure.php(80): view('departure_detai...', Array)
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Departure->detail()
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Departure))
+#7 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}

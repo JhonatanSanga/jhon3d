@@ -1,0 +1,10 @@
+CRITICAL - 2022-12-21 20:55:31 --> Call to undefined function get_cookie()
+#0 C:\xampp\htdocs\papa2\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\papa2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\papa2\system\Common.php(1089): CodeIgniter\View\View->render('layout/header', Array, true)
+#3 C:\xampp\htdocs\papa2\app\Controllers\Awards.php(10): view('layout/header')
+#4 C:\xampp\htdocs\papa2\system\CodeIgniter.php(832): App\Controllers\Awards->index()
+#5 C:\xampp\htdocs\papa2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Awards))
+#6 C:\xampp\htdocs\papa2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\papa2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}

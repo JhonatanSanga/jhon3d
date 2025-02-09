@@ -1,0 +1,31 @@
+CRITICAL - 2022-05-01 15:52:36 --> Undefined variable $title
+#0 C:\xampp\htdocs\prueba\app\Views\departure_detail_view.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 3)
+#1 C:\xampp\htdocs\prueba\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\prueba\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\prueba\system\Common.php(1089): CodeIgniter\View\View->render('departure_detai...', Array, true)
+#4 C:\xampp\htdocs\prueba\app\Controllers\Departure.php(146): view('departure_detai...')
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Departure->state_warning()
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Departure))
+#7 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-01 15:52:47 --> Undefined variable $title
+#0 C:\xampp\htdocs\prueba\app\Views\departure_detail_view.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 3)
+#1 C:\xampp\htdocs\prueba\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\prueba\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\prueba\system\Common.php(1089): CodeIgniter\View\View->render('departure_detai...', Array, true)
+#4 C:\xampp\htdocs\prueba\app\Controllers\Departure.php(138): view('departure_detai...')
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Departure->state_process()
+#6 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Departure))
+#7 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-01 19:36:24 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\prueba\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\prueba\system\Model.php(722): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\prueba\app\Controllers\Departure.php(123): CodeIgniter\Model->__call('insert_departur...', Array)
+#3 C:\xampp\htdocs\prueba\system\CodeIgniter.php(832): App\Controllers\Departure->insert_detail()
+#4 C:\xampp\htdocs\prueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Departure))
+#5 C:\xampp\htdocs\prueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\prueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
