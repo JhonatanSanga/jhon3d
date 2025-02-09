@@ -69,14 +69,6 @@
           </a>
         </li>
         <li <?php
-            if ($_COOKIE['page'] === 'proyectos') {
-              echo ('class="active"');
-            } ?>>
-          <a href="<?php echo base_url('projects') ?>">
-            Proyectos
-          </a>
-        </li>
-        <li <?php
             if ($_COOKIE['page'] === 'peliculas') {
               echo ('class="active"');
             } ?>>
